@@ -1,0 +1,34 @@
+D:\cs\C#\PokemonDex\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.exe
+D:\cs\C#\PokemonDex\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.deps.json
+D:\cs\C#\PokemonDex\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.runtimeconfig.json
+D:\cs\C#\PokemonDex\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.dll
+D:\cs\C#\PokemonDex\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.pdb
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Form1.resources
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Resource1.resources
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.GenerateResource.cache
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfoInputs.cache
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfo.cs
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.CoreCompileInputs.cache
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.dll
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\refint\PokemonDex.dll
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.pdb
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.genruntimeconfig.cache
+D:\cs\C#\PokemonDex\PokemonDex\obj\Debug\net8.0-windows\ref\PokemonDex.dll
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Form1.resources
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Resource1.resources
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.GenerateResource.cache
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfoInputs.cache
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfo.cs
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.CoreCompileInputs.cache
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.dll
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\refint\PokemonDex.dll
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.pdb
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.exe
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.deps.json
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.runtimeconfig.json
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.dll
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.pdb
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.genruntimeconfig.cache
+E:\New Folder(1)\PokemonDex-main\PokemonDex-main\PokemonDex\obj\Debug\net8.0-windows\ref\PokemonDex.dll
