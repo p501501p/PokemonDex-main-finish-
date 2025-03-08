@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\New Folder(1)\\PokemonDex-main\\PokemonDex-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABCFEF26-0B12-4898-9DFB-5E1CCEB97A8E}|PokemonDex\\PokemonDex.csproj|E:\\New Folder(1)\\PokemonDex-main\\PokemonDex-main\\pokemondex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ABCFEF26-0B12-4898-9DFB-5E1CCEB97A8E}|PokemonDex\\PokemonDex.csproj|e:\\new folder(1)\\pokemondex-main\\pokemondex-main\\pokemondex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ABCFEF26-0B12-4898-9DFB-5E1CCEB97A8E}|PokemonDex\\PokemonDex.csproj|solutionrelative:pokemondex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "PokemonDex\\PokemonClass\\psyduck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T17:19:42.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T17:19:42.978Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "PokemonDex\\PokemonClass\\Hypno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T17:19:23.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T17:19:23.111Z"
             },
             {
               "$type": "Document",

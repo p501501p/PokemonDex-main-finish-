@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokemonDex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ac32c5f96a3ec2cc623a6013a48313f64101b69")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokemonDex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokemonDex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
